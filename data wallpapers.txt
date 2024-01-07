@@ -1,8 +1,8 @@
 {"ads":{
   
-"huawei_inter":"NO",
-"huawei_banner":"NO",
-"huawei_native":"NO"
+"huawei_inter":"f3kp08dqtx",
+"huawei_banner":"huawei",
+"huawei_native":"p8lvz76pom"
   
 
 },
